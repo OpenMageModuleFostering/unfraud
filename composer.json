@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/unfraud",
+    "type": "magento-module",
+    "license": "GPL",
+    "homepage": "",
+    "description": "UnFraud uses Artificial Intelligence &Behavioural Analytics to prevent online frauds and any related cost",
+    "authors": [
+    {
+        "name": "UnFraud",
+        "email": "admin@unfraud.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

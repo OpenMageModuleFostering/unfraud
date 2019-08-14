@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+    <name>unfraud</name>
+    <version>1.0.1</version>
+    <stability>stable</stability>
+    <license>GPL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>UnFraud uses Artificial Intelligence &amp;Behavioural Analytics to prevent online frauds and any related cost</summary>
+    <description>Download UnFraud Extension for &lt;b&gt;FREE&lt;/b&gt; and get 60 days of free trial!&lt;p /&gt;&lt;p /&gt;UnFraud uses Artificial Intelligence and Behavioural Analytics to recognise fraudsters before they can even actually make the fraud. We can do that because we are able to recognise hidden patterns in the behaviours of customers on your eCommerce, in real time; this empowers you to decide to stop a malicious user before he does any harm.&lt;p /&gt;&#xD;
+In this way our system safeguards your business from chargebacks and any related cost, both direct and indirect, such as reputation: we think that this point is really important and that's why we are invisible to the user, so that the user experience will be smooth as before, and so no one will ever know you are exposed to frauds. And we will never say it to anybody. &lt;p /&gt;&#xD;
+With us, the false positive rate is incredibly low, helping you accepting orders you would otherwise refuse, so that your revenues increase and your customers are satisfied. &#xD;
+&#xD;
+&lt;p /&gt;UnFraud, we protect your business!&lt;p /&gt;</description>
+    <notes>UnFraud uses Artificial Intelligence &amp; Behavioural Analytics to prevent online frauds and any related cost</notes>
+    <authors><author><name>UnFraud</name><user>UnFraud</user><email>admin@unfraud.com</email></author></authors>
+    <date>2016-04-27</date>
+    <time>14:45:08</time>
+    <contents><target name="magecommunity"><dir name="app"><dir name="etc"><dir name="modules"><file name="Unfraud_Unfraud.xml" hash=""/></dir></dir></dir></target><target name="magelocale"><dir name="app"><dir name="locale"><dir name="en_US"><file name="Unfraud_Unfraud.csv" hash=""/></dir><dir name="it_IT"><file name="Unfraud_Unfraud.csv" hash=""/></dir></dir></dir></target><target name="magedesign"><dir name="app"><dir name="design"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><file name="unfraud.xml" hash=""/></dir><dir name="template"><file name="unfraud" hash=""/></dir></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.3.2</min><max>5.5.9</max></php></required></dependencies>
+</package>
